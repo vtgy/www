@@ -1,0 +1,10 @@
+h1 {
+	font-family: fantasy;
+}
+
+body {
+	background-image: url('./dragon.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
